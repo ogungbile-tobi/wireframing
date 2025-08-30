@@ -39,3 +39,27 @@ Figma's wireframing and design software makes the design process feel approachab
 3.  **Clear product structure:**  Wireframes help to visualize the interface, highlighting the main features.
 4.  **Early feedback: ** Wireframe give feedback on the core of the product before deciding on how to make it look
 5.  **Cost-effectiveness: ** Compared to concept designs, wireframes are easier to fix.
+
+## Wireframing in Practice
+
+### The Problem:
+
+A team was redesigning the product detail page for an online shop but wanted to avoid costly development changes later on.
+
+### The Solution (Wireframing):
+
+- **Creating wireframes:** The design team created a low-fidelity wireframe showing the layout of the product detail page, including elements like product images, descriptions, specifications, and the "add to cart" button. 
+- **Testing and Feedback:** They used these wireframes to conduct usability tests with potential users. During testing, users consistently had difficulty locating and interacting with the "add to cart" button, often scrolling past it or getting confused by its initial placement. 
+
+### Resolving the Issues:
+
+- **Repositioning:** The team moved the "add to cart" button to a more prominent position on the page, closer to the product images and above the "fold" to ensure it was visible without scrolling. 
+- **Clarifying Text:** They also adjusted the button's text to be more direct, using "Add to Cart" instead of a more ambiguous term. 
+
+### Impact on the Final Product:
+
+- **Improved Usability:** The revised wireframe, when tested again, showed users could easily find and use the "add to cart" button, indicating a significant improvement in usability. 
+- **Increased Conversions:** Because the primary call-to-action was more visible and understandable, the final live product saw a measurable increase in user engagement and sales conversions. The changes saved significant development costs that would have been incurred if the issue was discovered after the product was built. 
+
+### Role of Wireframing in ensuring a user-friendly design
+Wireframing ensures a user-friendly design by establishing the structure, layout, and functionality of a digital product before detailed visuals are added, allowing designers to focus on user flow and usability. 
