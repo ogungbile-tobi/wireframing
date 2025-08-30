@@ -31,3 +31,11 @@ Popular wireframing tools include Figma, Adobe XD, Sketch, Balsamiq, and Miro. F
 ### Wireframing in Figma
 
 Figma's wireframing and design software makes the design process feel approachable and inclusive. We have the free wireframe tools you need to design wireframes for web and mobile mockups. Figma makes it easy to explore how your website should function and, when you’re ready, go from blueprint to end product. With Figma, you can quickly customize design elements and even turn your wireframe example into a clickable prototype. Once you’re ready, you can easily share your file with anyone - just send a link. Ready to go from a low fidelity to a high fidelity wireframe? We have templates for that, too.
+
+## Benefits of Wireframing in Software Development
+
+1.  **Key elements on a page:** Wireframes help to establish a hierarchy of information on a page and nail down the interface structure
+2.  **Communication in a team:** Wireframing helps the product team figure out whether the designers went in the right direction with a product
+3.  **Clear product structure:**  Wireframes help to visualize the interface, highlighting the main features.
+4.  **Early feedback: ** Wireframe give feedback on the core of the product before deciding on how to make it look
+5.  **Cost-effectiveness: ** Compared to concept designs, wireframes are easier to fix.
